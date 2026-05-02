@@ -1,0 +1,5 @@
+time,vehicle_count,avg_speed,congestion_status
+07:00,20,45,Free Flow
+08:00,50,25,Congested
+09:00,30,40,Free Flow
+10:00,60,20,Congested
