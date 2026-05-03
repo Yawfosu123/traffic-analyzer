@@ -1,5 +1,5 @@
-time,vehicle_count,avg_speed,congestion_status
-07:00,20,45,Free Flow
-08:00,50,25,Congested
-09:00,30,40,Free Flow
-10:00,60,20,Congested
+time,vehicle_count,avg_speed,travel_time_mins,delay_mins,delay_severity
+07:00,20,45,3.3,0.3,Minimal
+08:00,50,25,6.0,3.0,Severe
+09:00,30,40,3.8,0.8,Minimal
+10:00,60,20,7.5,4.5,Severe
